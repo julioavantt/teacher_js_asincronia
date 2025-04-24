@@ -29,4 +29,4 @@
 
 #### URL
 
-[text](https://julioavantt.github.io/teacher_js_asincronia/index.html)
+[Ver](https://julioavantt.github.io/teacher_js_asincronia/index.html)
