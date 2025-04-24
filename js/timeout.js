@@ -10,3 +10,6 @@ const loop = () => {
 setTimeout(loop, 0)
 
 console.log("Después loop")
+
+
+
