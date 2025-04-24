@@ -11,7 +11,7 @@
 	"prettier.tabWidth": 3,
 	"prettier.arrowParens": "avoid",
 	"prettier.useTabs": true,
-	"prettier.printWidth": 70,
+	"prettier.printWidth": 110,
 	"prettier.bracketSpacing": true,
 	"prettier.trailingComma": "es5",
 	"prettier.semi": false,
